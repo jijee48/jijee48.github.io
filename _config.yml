@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Case Tatro"
-title_separator          : #"-"
-name                     : #&name "Your Name"
-description              : #&description "personal description"
+title_separator          : ""
+name                     : &name "Case Tatro"
+description              : &description "PhD Candidate"
 url                      : https://casetatro.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "casetatro/casetatro.github.io"
@@ -22,20 +22,20 @@ repository               : "casetatro/casetatro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile2.png"
   name             : "Case Tatro"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Binghamton, NY"
-  employer         : "Binhamton University (SUNY)"
+  employer         : "Binghamton Univeristy (SUNY)"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0005-9899-1117"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Case_Tatro"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,12 +67,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "case-tatro
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "InCaseofEconStruggles"
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Case-Tatro
+  username               : 
 facebook:
   username               :
   app_id                 :
