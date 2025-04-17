@@ -41,7 +41,7 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "Working Papers": [
+  "papers": [
     {
       "name": "Is the red-blue achievement gap due to state policy?",
       "releaseDate": "2009-10-01",
@@ -56,7 +56,7 @@ mortality is predominantly driven by confounding."
     }
 
   ],
-  "Works in Progress": [
+  "works": [
     {
       "name": "Is the red-blue achievement gap due to state policy?",
       "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education,
@@ -71,8 +71,7 @@ poor students."
 
     {
       "name": "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement
-distribution within the same classrooms?
-",
+distribution within the same classrooms?",
       "summary": "Teacher value-added is used to evaluate teachers in many places. 
       Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years. "
     },
