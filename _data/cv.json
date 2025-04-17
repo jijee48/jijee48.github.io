@@ -38,7 +38,11 @@
     
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {"language": "English",
+    "fluency": "Native"
+    }
+  ],
   "interests": [],
   "references": [],
   "papers": [
@@ -80,7 +84,14 @@ distribution within the same classrooms?",
   ],
   "teaching": [
     {
-      "course": "Courses Taught (Instructor of Record)",
+      "course": "Instructor of Record",
+      "institution": "Binghamton University",
+      "date": "Summer 2024, Summer 2025",
+      "role": "Econ 360: Intermediate Microeconomic Theory",
+      "description": ""
+    },
+    {
+      "course": "Teaching Assistant",
       "institution": "Binghamton University",
       "date": "Summer 2024, Summer 2025",
       "role": "Econ 360: Intermediate Microeconomic Theory",
@@ -111,8 +122,35 @@ distribution within the same classrooms?",
       "course": "Teaching Assistant",
       "institution": "Binghamton University",
       "date": "Spring 2023",
-      "role": "Econ 611: Microeconomics (PhD Core)",
+      "role": "Econ : Historical Perspectives of Economic Growth",
+      "description": "Includes guest lectures."
+    },
+    {
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Fall 2022",
+      "role": "Econ : International Monetary Policy",
+      "description": "Includes guest lectures."
+    },
+    {
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Spring 2022",
+      "role": "Econ 362: Intermediate Macroeconomic Theory",
       "description": "Includes discussion sections."
+    },
+    {
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Fall 2021",
+      "role": "Econ 360: Intermediate Microeconomic Theory",
+      "description": "Includes discussion sections."
+    },
+    {
+      "course": "Department Tutor",
+      "institution": "Binghamton University",
+      "date": "Summer 2023,Summer 2024",
+      "role": "PhD Microeconomics Comprehensice Exam (Qualifier) Tutor"
     },
   ]
  
