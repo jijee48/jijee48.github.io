@@ -13,7 +13,7 @@ I have a strong passion for teaching. My teaching interests and qualifications i
 
 My Dissertation Committee
 ======
-* David Slicther (chair)
+* David Slichter (chair)
 * Sulagna Mokerjee
 * Ozlem Tonguc
 
