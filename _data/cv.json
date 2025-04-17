@@ -2,7 +2,7 @@
   "basics": {
     "name": "Case Tatro",
     "email": "ctatro1@binghamton.edu",
-    "phone": "",
+
     "website": "https://casetatro.github.io",
     "summary": "PhD Candidate in Economics of Education",
     "location": {
@@ -44,7 +44,7 @@
   "papers": [
     {
       "name": "Is the red-blue achievement gap due to state policy?",
-      "releaseDate": "2009-10-01",
+      "releaseDate": "2025",
       "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: Age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the
 Republican Party. We ask whether this is due to state-level policies or simply due to confounding
@@ -80,27 +80,41 @@ distribution within the same classrooms?",
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Courses Taught (Instructor of Record)",
+      "institution": "Binghamton University",
+      "date": "Summer 2024, Summer 2025",
+      "role": "Econ 360: Intermediate Microeconomic Theory",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Spring 2024, Fall 2024, Spring 2024",
+      "role": "Econ 433: Natural Resource Economics",
+      "description": "Includes guest lectures."
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Spring 2024, Fall 2024, Spring 2024",
+      "role": "Econ 331: Environmental Economics",
+      "description": "Includes guest lectures."
+    },
+    {
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Fall 2023",
+      "role": "Econ 611: Microeconomics (PhD Core)",
+      "description": "Includes discussion sections."
+    },
+    {
+      "course": "Teaching Assistant",
+      "institution": "Binghamton University",
+      "date": "Spring 2023",
+      "role": "Econ 611: Microeconomics (PhD Core)",
+      "description": "Includes discussion sections."
+    },
   ]
+ 
+
 }
