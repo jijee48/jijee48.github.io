@@ -85,75 +85,77 @@ distribution within the same classrooms?",
     },
 
   ],
-  "teaching": [
+  "instructor": [
     {
-      "course": "Instructor of Record",
+      "course": "Econ 331: Environmental Economics",
       "institution": "Binghamton University",
       "date": "Fall 2025",
-      "role": "Econ 331: Environmental Economics",
+      "role": "",
       
     },
     {
-      "course": "Instructor of Record",
+      "course": "",
       "institution": "Binghamton University",
       "date": "Summer 2024, Summer 2025",
-      "role": "Econ 360: Intermediate Microeconomic Theory",
+      "role": "",
       
-    },
+    }
+  ]
+  ["teaching_assist"
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 360: Intermediate Microeconomic Theory",
       "institution": "Binghamton University",
       "date": "Summer 2024, Summer 2025",
-      "role": "Econ 360: Intermediate Microeconomic Theory",
+      "role": "",
       
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 433: Natural Resource Economics",
       "institution": "Binghamton University",
       "date": "Spring 2024, Fall 2024, Spring 2024",
-      "role": "Econ 433: Natural Resource Economics",
+      "role": "",
       "description": "Includes guest lectures."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 331: Environmental Economics",
       "institution": "Binghamton University",
       "date": "Spring 2024, Fall 2024, Spring 2024",
-      "role": "Econ 331: Environmental Economics",
+      "role": "",
       "description": "Includes guest lectures."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 611: Microeconomics (PhD Core)",
       "institution": "Binghamton University",
       "date": "Fall 2023",
-      "role": "Econ 611: Microeconomics (PhD Core)",
+      "role": "",
       "description": "Includes discussion sections."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 485: Historical Perspectives of Economic Growth",
       "institution": "Binghamton University",
       "date": "Spring 2023",
-      "role": "Econ 485: Historical Perspectives of Economic Growth",
+      "role": "",
       "description": "Includes guest lectures."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 437: International Monetary Policy",
       "institution": "Binghamton University",
       "date": "Fall 2022",
-      "role": "Econ 437: International Monetary Policy",
+      "role": "",
       "description": "Includes guest lectures."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 362: Intermediate Macroeconomic Theory",
       "institution": "Binghamton University",
       "date": "Spring 2022",
-      "role": "Econ 362: Intermediate Macroeconomic Theory",
+      "role": "",
       "description": "Includes discussion sections."
     },
     {
-      "course": "Teaching Assistant",
+      "course": "Econ 360: Intermediate Microeconomic Theory",
       "institution": "Binghamton University",
       "date": "Fall 2021",
-      "role": "Econ 360: Intermediate Microeconomic Theory",
+      "role": "",
       "description": "Includes discussion sections."
     },
     {

@@ -186,10 +186,10 @@
   </div>
   {% endif %}
   
-  {% if cv.teaching.size > 0 %}
+  {% if cv.instructor.size > 0 %}
   <!-- Teaching -->
   <div class="cv-section">
-    <h2>Teaching</h2>
+    <h2>Courses Taught (Instructor of Record)</h2>
     <ul class="cv-list">
       {% for teaching in cv.teaching %}
       <li class="cv-item">
@@ -199,9 +199,6 @@
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ teaching.institution }}</div>
-          {% if teaching.role %}
-          <div class="cv-item-detail">{{ teaching.role }}</div>
-          {% endif %}
           {% if teaching.description %}
           <div class="cv-item-detail">(<i>{{teaching.description }}</i>)</div>
           {% endif %}
@@ -212,44 +209,22 @@
   </div>
   {% endif %}
   
-  {% if cv.portfolio.size > 0 %}
-  <!-- Portfolio -->
+  {% if cv.teaching_assist.size > 0 %}
+  <!-- Teaching -->
   <div class="cv-section">
-    <h2>Portfolio</h2>
+    <h2>Courses TA'ed (Teaching Assistant)</h2>
     <ul class="cv-list">
-      {% for item in cv.portfolio %}
+      {% for teaching in cv.teaching_assist %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ item.name }}</div>
-          <div class="cv-item-date">{{ item.date | slice: 0, 4 }}</div>
+          <div class="cv-item-title">{{ teaching.course }}</div>
+          <div class="cv-item-date">{{ teaching.date}}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ item.category | capitalize }}</div>
-          {% if item.description %}
-          <div class="cv-item-detail">{{ item.description }}</div>
+          <div class="cv-item-subtitle">{{ teaching.institution }}</div>
+          {% if teaching.description %}
+          <div class="cv-item-detail">(<i>{{teaching.description }}</i>)</div>
           {% endif %}
-          {% if item.url %}
-          <div class="cv-item-detail">
-            <a href="{{ item.url }}" target="_blank">View Project</a>
-          </div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-  
-  {% if cv.languages.size > 0 %}
-  <!-- Languages -->
-  <div class="cv-section">
-    <h2>Languages</h2>
-    <ul class="cv-list">
-      {% for language in cv.languages %}
-      <li class="cv-item">
-        <div class="cv-item-content">
-          <div class="cv-item-title">{{ language.language }}</div>
-          <div class="cv-item-detail">{{ language.fluency }}</div>
         </div>
       </li>
       {% endfor %}

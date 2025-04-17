@@ -1,0 +1,47 @@
+{   
+    "papers": [
+      {
+        "name": "Is the red-blue achievement gap due to state policy?",
+        "releaseDate": "2025",
+        "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
+        "summary": "Abstract: Age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the
+  Republican Party. We ask whether this is due to state-level policies or simply due to confounding
+  variables such as culture. We implement three research designs: a border county design, a regression
+  discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our
+  point estimates suggest that Democratic state government slightly decreases mortality, but most
+  estimates are insignificant, and in all designs we find that the correlation between partisanship and
+  mortality is predominantly driven by confounding."
+      }
+  
+    ],
+    "works": [
+      {
+        "name": "Is the red-blue achievement gap due to state policy?",
+        "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education,
+  including funding education more generously. Consistent with this fact, students in Democratic
+  states score higher on standardized tests than Republican states. I implement two research designs
+  and ask whether Democrats cause these differences in test scores through state-level policy. I find
+  that Democrats do seem to increase test scores, although my estimates are imprecisely estimated.
+  Further, despite the view that Democrats promote equity in education, I do not find that Democrats
+  close achievement gaps between white and black students, male and female students, or rich and
+  poor students."
+      },
+  
+      {
+        "name": "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement
+  distribution within the same classrooms?",
+        "summary": "Teacher value-added is used to evaluate teachers in many places. 
+        Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years. "
+      },
+      {
+        "name": "How does advice change when the advisor can be punished? A lab experiment.",
+        "summary": "In the US, consulting companies like McKinsey rarely face direct public accountability for their role in the firm behavior of their clients. This often allows firms to offload culpability onto their advisors. We use a simplified lab-experiment to investigate how such public accountability for advisors may change i)the type of advice consulting companies offer to firms and ii) the actions of firms. We find such accountable advice affects both the advice given by advisors and the action taken by firms. Work is ongoing regarding how accountable advice affects total welfare, but our results suggest that ultimately holding consulting companies accountable for the actions of their clients may improve consumer welfare."
+      },
+  
+    ] 
+   
+
+
+    
+  
+  }
