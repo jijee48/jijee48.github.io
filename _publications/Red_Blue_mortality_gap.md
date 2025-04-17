@@ -3,7 +3,7 @@ title: "Is the red-blue gap in mortality due to state policy?"
 collection: publications
 category: papers
 permalink: /publication/2009-10-01-paper-title-number-1
-abstract: "Age-adjusted mortality rates are higher in red states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies or simply due to confounding variables such as culture. We implement three research designs a border county design, a regression discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our point estimates suggest that Democratic state government slightly decreases mortality, but most estimates are insignificant, and in all designs we find that the correlation between partisanship and mortality is predominantly driven by confounding."
+abstract: 'Age-adjusted mortality rates are higher in red states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies or simply due to confounding variables such as culture. We implement three research designs a border county design, a regression discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our point estimates suggest that Democratic state government slightly decreases mortality, but most estimates are insignificant, and in all designs we find that the correlation between partisanship and mortality is predominantly driven by confounding.'
 date: 2025
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
