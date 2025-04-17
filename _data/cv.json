@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Case Tatro",
+    "email": "ctatro1@binghamton.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://casetatro.github.io",
+    "summary": "PhD Candidate in Economics of Education",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Binghamton",
+      "countryCode": "USA",
+      "region": "NY"
     },
     "profiles": [
       {
@@ -33,96 +33,66 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Binghamton University",
+      "area": "Ph.D, Economics",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2026 (anticipated)",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Hamilton College",
+      "area": "BA, Economics",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
+    
   ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
+  "Working Papers": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
+      "name": "Is the red-blue achievement gap due to state policy?",
       "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
+      "summary": "Abstract: Age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the
+Republican Party. We ask whether this is due to state-level policies or simply due to confounding
+variables such as culture. We implement three research designs: a border county design, a regression
+discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our
+point estimates suggest that Democratic state government slightly decreases mortality, but most
+estimates are insignificant, and in all designs we find that the correlation between partisanship and
+mortality is predominantly driven by confounding."
     }
+
   ],
-  "presentations": [
+  "Works in Progress": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Is the red-blue achievement gap due to state policy?",
+      "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education,
+including funding education more generously. Consistent with this fact, students in Democratic
+states score higher on standardized tests than Republican states. I implement two research designs
+and ask whether Democrats cause these differences in test scores through state-level policy. I find
+that Democrats do seem to increase test scores, although my estimates are imprecisely estimated.
+Further, despite the view that Democrats promote equity in education, I do not find that Democrats
+close achievement gaps between white and black students, male and female students, or rich and
+poor students."
     },
+
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement
+distribution within the same classrooms?
+",
+      "summary": "Teacher value-added is used to evaluate teachers in many places. 
+      Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years. "
     },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
+
+
   ],
   "teaching": [
     {
