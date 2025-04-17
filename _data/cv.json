@@ -100,8 +100,9 @@ distribution within the same classrooms?",
       "role": "",
       
     }
-  ]
-  ["teaching_assist"
+  ],
+
+  "teaching_assist":[
     {
       "course": "Econ 360: Intermediate Microeconomic Theory",
       "institution": "Binghamton University",
@@ -163,7 +164,7 @@ distribution within the same classrooms?",
       "institution": "Binghamton University",
       "date": "Summer 2023,Summer 2024",
       "role": "PhD Microeconomics Comprehensice Exam (Qualifier) Tutor"
-    },
+    }
   ]
  
 
