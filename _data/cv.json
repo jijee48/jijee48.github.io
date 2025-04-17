@@ -4,7 +4,7 @@
     "email": "ctatro1@binghamton.edu",
 
     "website": "https://casetatro.github.io",
-    "summary": "PhD Candidate in Economics of Education",
+    "summary": "PhD Candidate in Economics of Education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -79,10 +79,20 @@ distribution within the same classrooms?",
       "summary": "Teacher value-added is used to evaluate teachers in many places. 
       Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years. "
     },
-
+    {
+      "name": "How does advice change when the advisor can be punished? A lab experiment.",
+      "summary": "In the US, consulting companies like McKinsey rarely face direct public accountability for their role in the firm behavior of their clients. This often allows firms to offload culpability onto their advisors. We use a simplified lab-experiment to investigate how such public accountability for advisors may change i)the type of advice consulting companies offer to firms and ii) the actions of firms. We find such accountable advice affects both the advice given by advisors and the action taken by firms. Work is ongoing regarding how accountable advice affects total welfare, but our results suggest that ultimately holding consulting companies accountable for the actions of their clients may improve consumer welfare."
+    },
 
   ],
   "teaching": [
+    {
+      "course": "Instructor of Record",
+      "institution": "Binghamton University",
+      "date": "Fall 2025",
+      "role": "Econ 331: Environmental Economics",
+      "description": ""
+    },
     {
       "course": "Instructor of Record",
       "institution": "Binghamton University",
