@@ -1,12 +1,14 @@
 ---
 title: "Courses Taught (Instructor of Record)"
 collection: teaching
-type: "Undergraduate course"
+type: "Econ 360: Intermediate Microeconomic Theory"
 permalink: /teaching/2025-courses-instructed
 venue: "Binghamton University (SUNY)"
+date: Summer 2024, Summer 2025
+syllabus: "here"
+example_exam: "here"
+student-feedback: "here"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
