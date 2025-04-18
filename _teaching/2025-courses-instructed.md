@@ -5,7 +5,7 @@ type: "Econ 360: Intermediate Microeconomic Theory"
 permalink: /teaching/2025-courses-instructed
 venue: "Binghamton University (SUNY)"
 date: Summer 2024, Summer 2025
-syllabus: "here"
+syllabus: "\files\"
 example_exam: "here"
 student-feedback: "here"
 ---
