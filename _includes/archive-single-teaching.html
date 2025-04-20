@@ -33,11 +33,6 @@
         <u>{{post.title}}</u>
     </h2>
     
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-    
     
     <p> {{ post.course }}</p>
     <p><i>{{ post.venue }}</i>, {{post.semesters}}</p>

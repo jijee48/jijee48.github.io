@@ -1,6 +1,6 @@
 ---
 title: "Instructor of Record"
-collection: teach
+collection: teaching
 course: "Econ 360: Intermediate Microeconomic Theory"
 permalink: /teaching/2025-courses-instructed
 venue: "Binghamton University (SUNY)"
