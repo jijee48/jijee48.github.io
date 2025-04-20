@@ -1,7 +1,7 @@
 ---
-title: "Econ 360: Intermediate Microeconomic Theory"
-collection: teaching
-type: "Instructor of Record"
+title: "Instructor of Record"
+collection: "teaching"
+course: "Econ 360: Intermediate Microeconomic Theory"
 permalink: /teaching/2025-courses-instructed
 venue: "Binghamton University (SUNY)"
 date: 2025-01-01
