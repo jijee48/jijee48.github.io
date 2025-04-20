@@ -2,7 +2,7 @@
 title: "Instructor of Record"
 collection: teaching
 course: Econ 360-Intermediate Microeconomic Theory
-permalink: /teaching/2025-courses-instructed
+permalink: /teaching/econ-360/
 venue: Binghamton University (SUNY)
 date: 2025-01-01
 semesters: "Summer 2024, Summer 2025"
