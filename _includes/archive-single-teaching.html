@@ -35,15 +35,17 @@
     </h2> -->
 
        <h2 class="archive__item-title" itemprop="headline">  
-        <p><u>{{post.title}}</u></p>
+        <u>{{post.title}}</u>
     </h2>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == "teaching" %}
-          <p> {{ post.course }}, <i>{{ post.venue }}</i>, {{post.semesters}} </p>
+        {% if post.collection == teaching %}
+          <p> {{ post.course }}</p>
+        <p><i>{{ post.venue }}</i>, {{post.semesters}}</p>
+     
         {% endif %}
 
        
