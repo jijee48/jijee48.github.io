@@ -1,2 +1,0 @@
-# My Teaching
-I love teaching and I care deeply about teaching. Regardless of whether I am the instructor or a teaching assistant (TA), I want my students to think critically and apply rather than regurgitate knowledge. I care about all  students, not just those who get A’s. I spend more time on teaching than anyone I know. The reasons I want to spend the extra time teaching are i) I care about my students and ii) I simply enjoy it. You can find my full teaching philosophy at the link below. I also describe my teaching experince below.
