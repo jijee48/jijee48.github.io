@@ -58,8 +58,6 @@
       <p><a href="{{ post.syllabus }}">View Syllabus</a></p>
     {% elsif post.exam_example and post.student-feedback %}
       <p><a href="{{ post.exam_example }}">View Sample Exam</a> | <a href="{{ post.student-feedback}}">View Student Feedback</a></p>
-    {% elsif post.citation and post.exam_example %}
-      <p><a href="{{ post.exam_example }}">View Sample Exam</a></p>
     {% elsif  post.student-feedback %}
       <p><a href="{{ post.student-feedback }}">View Student Feedback</a></p>
     {% elsif post.syllabus and post.student-feedback %}
@@ -74,5 +72,6 @@
       <p><a href="{{ post.student-feedback }}">View Student Feedback</a></p>
     {% endif %}
 
+    {% endif %}
   </article>
 </div>
