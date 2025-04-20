@@ -7,8 +7,6 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
   {% assign title = post.title %}
 {% endif %}
 
@@ -34,7 +32,7 @@
       {% endif %}
     </h2> -->
 
-       <h2 class="archive__item-title" itemprop="headline">  
+       <h2>  
         <u>{{post.title}}</u>
     </h2>
     
@@ -42,7 +40,7 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == teaching %}
+        {% if post.collection == teach %}
           <p> {{ post.course }}</p>
         <p><i>{{ post.venue }}</i>, {{post.semesters}}</p>
      
