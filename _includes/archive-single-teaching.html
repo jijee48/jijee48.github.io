@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date}} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -51,19 +51,19 @@
     
     
     {% if post.syllabus and post.example-exam and post.student-feedback %}
-      <p><br /><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.example-exam }}">View Sample Exam</a> | <a href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.example-exam }}">View Sample Exam</a> | <a href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.example-exam %}
-      <p><br /><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.syllabus and post.student-feedback %}
-      <p><br /><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
-      <p><br /><a href="{{ post.syllabus }}">View Syllabus</a></p>
+      <p><a href="{{ post.syllabus }}">View Syllabus</a></p>
     {% elsif post.example-exam and post.student-feedback %}
-      <p><br /><a href="{{ post.example-exam }}">View Sample Exam</a> | <a href="{{ post.student-feedback}}">Student Feedback</a></p>
+      <p><a href="{{ post.example-exam }}">View Sample Exam</a> | <a href="{{ post.student-feedback}}">Student Feedback</a></p>
     {% elsif post.example-exam %}
-      <p><br /><a href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.student-feedback %}
-      <p><br /><a href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.student-feedback %}
       <p><a href=" {{ post.syllabus }} ">View Syllabus</a> | <a href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
