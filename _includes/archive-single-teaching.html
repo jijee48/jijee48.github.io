@@ -42,36 +42,36 @@
        
     
     {% if post.syllabus and post.example-exam and post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer"  href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank"   href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.example-exam %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer"  href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a target="_blank"  href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank"   href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.syllabus and post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a></p>
+      <p><a target="_blank" href="{{ post.syllabus }}">View Syllabus</a></p>
     {% elsif post.example-exam and post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback}}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank"  href="{{ post.student-feedback}}">Student Feedback</a></p>
     {% elsif post.example-exam %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a target="_blank"  href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer"href=" {{ post.syllabus }} ">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank" href=" {{ post.syllabus }} ">View Syllabus</a> | <a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
-      <p><a  target="_blank" rel="noopener noreferrer" href=" {{ post.syllabus }} ">View Syllabus</a></p>
+      <p><a  target="_blank"  href=" {{ post.syllabus }} ">View Syllabus</a></p>
     {% elsif post.example-exam and post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.example-exam %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a target="_blank"  href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.student-feedback %}
-      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank"  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% endif %}
 
     {% if post.course=="Econ 331-Environmental Economics"  %}
     {% if post.final-project %}
-<p><a target="_blank" rel="noopener noreferrer" href="{{post.final-project}}">Final Project</a></p>
+<p><a target="_blank"  href="{{post.final-project}}">Final Project</a></p>
     {% elsif post.final-project and post.syllabus}
-    <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer"  href="{{ post.final-project}}">View Final Project Description</a> </p>
+    <p><a target="_blank"  href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank"   href="{{ post.final-project}}">View Final Project Description</a> </p>
     {% endif %}
     {% endif %}
 
