@@ -1,6 +1,7 @@
 ---
 title: "Instructor of Record"
 collection: teaching
+category: instructor
 course: Econ 331-Environmental Economics
 permalink: /teaching/econ-331/
 venue: Binghamton University (SUNY)

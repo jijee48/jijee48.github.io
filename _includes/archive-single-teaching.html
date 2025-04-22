@@ -33,7 +33,7 @@
         <u>{{post.title}}</u>
     </h2>
     
-    
+  {% if post.category==instructor}
     <p> {{ post.course }}, {{post.semesters}}</p>
     <p><i>{{ post.venue }}</i></p>
      
@@ -68,7 +68,20 @@
     {% endif %}
   {% endif %}
   
+{% elsif post.category=="ta"}
+<ul>
+  {% for course in post.ta-courses %}
+    <li>
+      <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
+      <em>Semesters:</em>
+      {% for semester in course.semesters %}
+        {{ semester }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </li>
+  {% endfor %}
+</ul>
 
 
+{% endif %}
   </article>
 </div>

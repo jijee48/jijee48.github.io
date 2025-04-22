@@ -1,6 +1,7 @@
 ---
 title: "Instructor of Record"
 collection: teaching
+category: instructor
 course: Econ 360-Intermediate Microeconomic Theory
 permalink: /teaching/econ-360/
 venue: Binghamton University (SUNY)

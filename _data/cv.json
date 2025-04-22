@@ -102,13 +102,7 @@ distribution within the same classrooms?",
   ],
 
   "teaching_assist":[
-    {
-      "course": "Econ 360: Intermediate Microeconomic Theory",
-      "institution": "Binghamton University",
-      "date": "Summer 2024, Summer 2025",
-      "role": "",
-      
-    },
+   
     {
       "course": "Econ 433: Natural Resource Economics",
       "institution": "Binghamton University",
@@ -119,7 +113,7 @@ distribution within the same classrooms?",
     {
       "course": "Econ 331: Environmental Economics",
       "institution": "Binghamton University",
-      "date": "Spring 2024, Fall 2024, Spring 2024",
+      "date": "Spring 2024, Fall 2024, Spring 2025",
       "role": "",
       "description": "Includes guest lectures."
     },
