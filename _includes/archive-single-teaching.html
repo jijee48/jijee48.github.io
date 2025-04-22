@@ -40,38 +40,31 @@
 
 
        
-    
+    {% if post.course!="Econ 331-Environmental Economics" %}
     {% if post.syllabus and post.example-exam and post.student-feedback %}
-      <p><a  href="{{ post.syllabus }}">View Syllabus</a> | <a   href="{{ post.example-exam }}">View Sample Exam</a> | <a  href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a   href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.example-exam %}
-      <p><a  href="{{ post.syllabus }}">View Syllabus</a> | <a   href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a   href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% elsif post.syllabus and post.student-feedback %}
-      <p><a  href="{{ post.syllabus }}">View Syllabus</a> | <a  href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
       <p><a href="{{ post.syllabus }}">View Syllabus</a></p>
     {% elsif post.example-exam and post.student-feedback %}
-      <p><a  href="{{ post.example-exam }}">View Sample Exam</a> | <a  href="{{ post.student-feedback}}">Student Feedback</a></p>
-    {% elsif post.example-exam %}
-      <p><a  href="{{ post.example-exam }}">View Sample Exam</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback}}">Student Feedback</a></p>
     {% elsif post.student-feedback %}
-      <p><a  href="{{ post.student-feedback }}">Student Feedback</a></p>
-    {% elsif post.syllabus and post.student-feedback %}
-      <p><a href=" {{ post.syllabus }} ">View Syllabus</a> | <a  href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus %}
       <p><a   href=" {{ post.syllabus }} ">View Syllabus</a></p>
-    {% elsif post.example-exam and post.student-feedback %}
-      <p><a  href="{{ post.example-exam }}">View Sample Exam</a> | <a  href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.example-exam %}
-      <p><a  href="{{ post.example-exam }}">View Sample Exam</a></p>
-    {% elsif post.student-feedback %}
-      <p><a  href="{{ post.student-feedback }}">Student Feedback</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a></p>
+    {% endif %}
     {% endif %}
 
     {% if post.course == "Econ 331-Environmental Economics" %}
     {% if post.final-project and post.syllabus %}
-      <p><a target="_blank" href="{{ post.syllabus }}">View Syllabus</a> | <a href="{{ post.final-project }}">Final Project</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.final-project }}">Final Project</a></p>
     {% elsif post.final-project %}
-      <p><a href="{{ post.final-project }}">Final Project</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="{{ post.final-project }}">Final Project</a></p>
     {% endif %}
   {% endif %}
   
