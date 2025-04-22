@@ -70,7 +70,7 @@
   
 {% elsif post.category=="ta"}
 <ul>
-  {% for course in post.[ta-courses] %}
+  {% for course in post["ta-courses"] %}
     <li>
       <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
       <em>Semesters:</em>
