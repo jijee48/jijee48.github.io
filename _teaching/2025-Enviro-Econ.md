@@ -7,5 +7,5 @@ venue: Binghamton University (SUNY)
 date: 2025-01-01
 semesters: "Fall 2025"
 syllabus: 'http://casetatro.github.io/teaching/Syllabus-Fall-2025-331.pdf'
-final-project: ""
+final-project: 'http://casetatro.github.io/teaching/Final-Project-331.pdf'
 ---
