@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+{% comment %} 
 {% include base_path %}
 
 <div class="teaching-intro" style="margin-bottom: 2rem;">
@@ -19,4 +19,6 @@ author_profile: true
 
 {% for post in site.teaching %}
   {% include archive-single-teaching.html %}
-{% endfor %}
+{% endfor %} 
+
+{% endcomment %}
