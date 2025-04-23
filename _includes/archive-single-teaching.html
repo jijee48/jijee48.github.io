@@ -68,6 +68,7 @@
     {% endif %}
   {% endif %}
   
+  {% comment %}
   {% elsif post.category == "ta" %}
   <ul>
     {% for course in post.tacourses %}
@@ -80,6 +81,7 @@
       </li>
     {% endfor %}
   </ul>
+  {% endcomment %}
   {% endif %}
 
   </article>
