@@ -75,7 +75,6 @@
   {% for course in post.tacourses %}
     <li>
       <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
-      
       {% for semester in course.semesters %}
         {{ semester }}{% unless forloop.last %}, 
         {% endunless %}
