@@ -40,7 +40,7 @@
 
 
        
-    {% if post.course!="Econ 331-Environmental Economics" %}
+  {% if post.course!="Econ 331-Environmental Economics" %}
     {% if post.syllabus and post.example-exam and post.student-feedback %}
       <p><a target="_blank" rel="noopener noreferrer" href="{{ post.syllabus }}">View Syllabus</a> | <a   href="{{ post.example-exam }}">View Sample Exam</a> | <a target="_blank" rel="noopener noreferrer" href="{{ post.student-feedback }}">Student Feedback</a></p>
     {% elsif post.syllabus and post.example-exam %}
@@ -58,7 +58,7 @@
     {% elsif post.example-exam %}
       <p><a target="_blank" rel="noopener noreferrer" href="{{ post.example-exam }}">View Sample Exam</a></p>
     {% endif %}
-    {% endif %}
+  {% endif %}
 
     {% if post.course == "Econ 331-Environmental Economics" %}
     {% if post.final-project and post.syllabus %}
@@ -68,7 +68,7 @@
     {% endif %}
   {% endif %}
 
-
+{% endif %}
 
   
   </article>
