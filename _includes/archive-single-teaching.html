@@ -70,14 +70,15 @@
 
 {% endif %}
 
-{% elsif post.category=="ta"%}
+{% if post.category=="ta" %}
 <ul>
   {% for course in post.tacourses %}
     <li>
       <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
       <em>Semesters:</em>
       {% for semester in course.semesters %}
-        {{ semester }}{% unless forloop.last %}, {% endunless %}
+        {{ semester }}{% unless forloop.last %}, 
+        {% endunless %}
       {% endfor %}
     </li>
   {% endfor %}
