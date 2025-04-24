@@ -3,7 +3,7 @@
     "name": "Case Tatro",
     "email": "ctatro1@binghamton.edu",
     "website": "https://casetatro.github.io",
-    "summary": "PhD Candidate in Economics of Education.",
+    "summary": "Ph.D. Candidate in Economics of Education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,7 @@
   "education": [
     {
       "institution": "Binghamton University",
-      "area": "Ph.D, Economics",
+      "area": "Ph.D., Economics",
       "studyType": "",
       "startDate": "2021",
       "endDate": "2026 (anticipated)",
@@ -78,14 +78,14 @@
     {
       "course": "Econ 433: Natural Resource Economics",
       "institution": "Binghamton University",
-      "date": "Spring 2024, Fall 2024, Spring 2024",
+      "date": "Spring 2025, Fall 2024, Spring 2024",
       "role": "",
       "description": "Includes guest lectures."
     },
     {
       "course": "Econ 331: Environmental Economics",
       "institution": "Binghamton University",
-      "date": "Spring 2024, Fall 2024, Spring 2025",
+      "date": "Spring 2025, Fall 2024, Spring 2025",
       "role": "",
       "description": "Includes guest lectures."
     },
