@@ -142,8 +142,15 @@
     {
     "conference": 
     }
+  ],
 
-
-  ]
+  "attendances": [
+    {
+    "conference": "Center for Teaching and Learning Economics (CTALE), 2024 (Online)"
+    },
+    {
+    "conference": "Southern Economic Association Winter Meeting 2024 (In-person)"
+    }
+  ] 
 
 }

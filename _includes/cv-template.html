@@ -280,10 +280,26 @@
     <li class="cv-item">
       <div class="cv-item-content">
         <div class="cv-item-title">{{ talk.conference }}</div>
-      </div>
     </li>
     {% endfor %}
   </ul>
 </div>
 {% endif %}
 </div>
+
+{% if cv.attendances.size > 0 %}
+<!-- Conference Attendances -->
+<div class="cv-section">
+  <h2>Conference Attendances</h2>
+  <ul class="cv-list">
+    {% for talk in cv.attendances %}
+    <li class="cv-item">
+      <div class="cv-item-content">
+        <div class="cv-item-title">{{ talk.conference }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+</div>
+
