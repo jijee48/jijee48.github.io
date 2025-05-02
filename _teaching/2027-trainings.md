@@ -5,7 +5,7 @@ category: trainings
 permalink: /teaching/trainings/
 venue: Binghamton University (SUNY)
 trainings:
-    - name: "Semester-long course on scholarly teaching"
+    - name: "Semester-long Course on Scholarly Teaching"
       role: Student
       date: Spring 2024
     - name: "Wicked Graduate Teaching Workshop"
