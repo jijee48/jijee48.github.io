@@ -89,5 +89,19 @@
 {% if post.category=="awards" %}
 <p> {{post.award}}</p>
 {% endif %}
+
+
+{% if post.category=="trainings" %}
+<ul>
+  {% for training in post.trainings %}
+    <li>
+      <strong>{{ training.name }}</strong> — {{ post.venue }}<br>
+      {{training.date}}
+    </li>
+  {% endfor %}
+</ul>
+
+
+{% endif %}
   </article>
 </div>
