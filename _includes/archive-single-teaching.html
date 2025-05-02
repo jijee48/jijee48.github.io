@@ -97,7 +97,7 @@
     <li>
       <strong>{{ course.name }}</strong> — {{ post.venue }}<br>
       {% for semester in course.date %}
-        {{role}},{{ semester }}{% unless forloop.last %}, 
+        {{course.role}},{{ semester }}{% unless forloop.last %}, 
         {% endunless %}
       {% endfor %}
     </li>
