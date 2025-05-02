@@ -93,9 +93,14 @@
 
 {% if post.category=="trainings" %}
 <ul>
-  {% for train in post.trainings %}
-      <strong>{{ train.name }}</strong> — {{ post.venue }}<br>
-      {{train.role}},{{train.date}}
+  {% for course in post.trainings %}
+    <li>
+      <strong>{{ course.name }}</strong> — {{ post.venue }}<br>
+      {% for semester in course.date %}
+        {{role}},{{ semester }}{% unless forloop.last %}, 
+        {% endunless %}
+      {% endfor %}
+    </li>
   {% endfor %}
 </ul>
 
