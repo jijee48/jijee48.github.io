@@ -247,6 +247,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+      author_profile: true
   # _teaching
   - scope:
       path: ""
