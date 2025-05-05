@@ -2,6 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
+author_profile: true
 ---
 
 Welcome! Click on your course below to access class materials:
