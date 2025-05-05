@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Econ 360: Intermediate Microeconomics
 permalink: /courses/econ360/
 author_profile: true
