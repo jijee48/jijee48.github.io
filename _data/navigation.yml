@@ -19,7 +19,9 @@ main:
     
   - title: "YouTube"
     url: /YouTube/
-        
+  
+  - title: "Courses"
+    url: /Courses/
     
   #- title: "CV"
   #  url: /cv/
