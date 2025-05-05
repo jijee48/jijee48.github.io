@@ -7,5 +7,5 @@ author_profile: true
 
 Welcome! Click on your course below to access class materials:   
 
-- [Econ 360: Intermediate Microeconomics](/courses/econ360/)
-- [Econ 331: Enviornmental Economics](/courses/econ331/)
+- [Econ 360: Intermediate Microeconomics](/econ360/)
+- [Econ 331: Enviornmental Economics](/econ331/)
