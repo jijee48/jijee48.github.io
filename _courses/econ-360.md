@@ -6,4 +6,4 @@ permalink: /courses/econ360/
 
 ### Course Materials
 
-- [Syllabus (PDF)](/econ-360/econ360/syllabus.pdf)
+- <a href="/_econ360/Tatro Syllabus Summer 25.pdf" target="_blank" rel="noopener">Syllabus (PDF)</a>
