@@ -31,10 +31,10 @@ Below are the same course materials I have posted to Brightspace.
 - <a href="/files/econ-360/slides/17 - Industry Supply.pdf" target="_blank" rel="noopener">17-Industry Supply Slides</a>
 - <a href="/files/econ-360/slides/18 - Equilibrium and Government Policies.pdf" target="_blank" rel="noopener">18-Equilibrium and Govt Policy Slides</a>
 - <a href="/files/econ-360/slides/19 - Market Power.pdf" target="_blank" rel="noopener">19-Market Power Slides</a>
--20 Externalities Slides
--21 Game Theory Slides
--22 Assymetric Information Slides
--23 Uncertainty Slides
+- 20 Externalities Slides
+- 21 Game Theory Slides
+- 22 Assymetric Information Slides
+- 23 Uncertainty Slides
 
 ## Homeworks
 - Homework 1
@@ -45,8 +45,8 @@ Below are the same course materials I have posted to Brightspace.
 - (Optional) Homework 6
 
 ## Past Midterm Exams
-- <a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
-- <a href="link-to-midterm.pdf"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
 
 
 ## Past Final Exams
