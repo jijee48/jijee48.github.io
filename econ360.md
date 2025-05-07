@@ -42,13 +42,13 @@ Below are the same course materials I have posted to Brightspace.
 - Homework 3
 - Homework 4
 - Homework 5
--(Optional) Homework 6
+- (Optional) Homework 6
 
 ## Past Midterm Exams
-- Practice Midterm  (Summer 2024) | Solutions
-- Midterm (Summer 2024) | Solutions
+- <a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+- <a href="link-to-midterm.pdf"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
 
 
 ## Past Final Exams
-- Practice Final (Summer 2024) | Solutions
-- Final (Summer 2024) | Solutions
+- <a href="link-to-midterm.pdf"><strong>Practice Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+- <a href="link-to-midterm.pdf"><strong>Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
