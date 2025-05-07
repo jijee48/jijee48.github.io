@@ -2,9 +2,21 @@
 layout: archive
 title: Econ 331: Environmental Economics
 permalink: /courses/econ331/
-author_profile: true
+author_profile: false
 ---
 
-This is a test by me
+### Econ 331: Environmental Economics
+
+## Syllabus
+
+## Final Project Guidelines and Rubric
+
+## Pre-lecture Slides
+
+## Homeworks
+
+## Past Exam 1s
+
+## Past Exam 2s
 
 
