@@ -5,7 +5,6 @@ permalink: /courses/econ360/
 author_profile: false
 ---
 
-### Econ 360: Intermediate Microeconomic Theory
 Below are the same course materials I have posted to Brightspace.
 
 ## Syllabus
@@ -24,17 +23,17 @@ Below are the same course materials I have posted to Brightspace.
 - <a href="/files/econ-360/slides/10 - Surplus.pdf" target="_blank" rel="noopener">10-Surplus Slides</a>
 - <a href="/files/econ-360/slides/11 - Market Demand.pdf" target="_blank" rel="noopener">11-Market Demand Slides</a>
 - <a href="/files/econ-360/slides/12 - Technology.pdf" target="_blank" rel="noopener">12-Technology Slides</a>
--13 -Profit Maximization Slides
--14 - Cost Minimization Slides
+- 13-Profit Maximization Slides
+- 14-Cost Minimization Slides
 - <a href="/files/econ-360/slides/15 - Cost Curves.pdf" target="_blank" rel="noopener">15-Cost Curve Slides</a>
 - <a href="/files/econ-360/slides/16 - Firm Supply.pdf" target="_blank" rel="noopener">16-Firm Supply Slides</a>
 - <a href="/files/econ-360/slides/17 - Industry Supply.pdf" target="_blank" rel="noopener">17-Industry Supply Slides</a>
 - <a href="/files/econ-360/slides/18 - Equilibrium and Government Policies.pdf" target="_blank" rel="noopener">18-Equilibrium and Govt Policy Slides</a>
 - <a href="/files/econ-360/slides/19 - Market Power.pdf" target="_blank" rel="noopener">19-Market Power Slides</a>
-- 20 Externalities Slides
-- 21 Game Theory Slides
-- 22 Assymetric Information Slides
-- 23 Uncertainty Slides
+- 20-Externalities Slides
+- 21-Game Theory Slides
+- 22-Assymetric Information Slides
+- 23-Uncertainty Slides
 
 ## Homeworks
 - Homework 1
@@ -45,10 +44,10 @@ Below are the same course materials I have posted to Brightspace.
 - (Optional) Homework 6
 
 ## Past Midterm Exams
-<a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a> <br>
 <a href="link-to-midterm.pdf"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
 
 
 ## Past Final Exams
-- <a href="link-to-midterm.pdf"><strong>Practice Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
-- <a href="link-to-midterm.pdf"><strong>Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf"><strong>Practice Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a> <br>
+<a href="link-to-midterm.pdf"><strong>Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>

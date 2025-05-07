@@ -5,18 +5,18 @@ permalink: /courses/econ331/
 author_profile: false
 ---
 
-### Econ 331: Environmental Economics
+# Econ 331: Environmental Economics
 
-## Syllabus
+### Syllabus
 
-## Final Project Guidelines and Rubric
+### Final Project Guidelines and Rubric
 
-## Pre-lecture Slides
+### Pre-lecture Slides
 
-## Homeworks
+### Homeworks
 
-## Past Exam 1s
+### Past Exam 1s
 
-## Past Exam 2s
+### Past Exam 2s
 
 
