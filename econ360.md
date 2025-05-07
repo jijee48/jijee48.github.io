@@ -44,10 +44,10 @@ Below are the same course materials I have posted to Brightspace.
 - (Optional) Homework 6
 
 ## Past Midterm Exams
-<a href="link-to-midterm.pdf"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a> <br>
-<a href="link-to-midterm.pdf"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf" target="_blank" rel="noopener"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf">Solutions</a> <br>
+<a href="link-to-midterm.pdf" target="_blank" rel="noopener"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf">Solutions</a>
 
 
 ## Past Final Exams
-<a href="link-to-midterm.pdf"><strong>Practice Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a> <br>
-<a href="link-to-midterm.pdf"><strong>Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf"><strong>Solutions</strong></a>
+<a href="link-to-midterm.pdf" target="_blank" rel="noopener"><strong>Practice Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf" target="_blank" rel="noopener">Solutions</a> <br>
+<a href="link-to-midterm.pdf" target="_blank" rel="noopener"><strong>Final (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf" target="_blank" rel="noopener">Solutions</a>
