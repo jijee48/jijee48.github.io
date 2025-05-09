@@ -41,7 +41,17 @@
     }
   ],
   "interests": [],
-  "references": [],
+  "references": [
+    {
+      "name": "David Slichter (chair)"
+    },
+    {
+      "name": "Sulagna Mokerjee"
+    },
+    {
+      "name": "Ozlem Tonguc"
+    }
+  ],
   "papers": [
     {
       "name": "Is the red-blue mortality gap due to state policy?",
