@@ -4,8 +4,11 @@ title: Econ 360: Intermediate Microeconomics
 permalink: /courses/econ360/
 author_profile: false
 ---
+# Intermediate Microeconomic Theory (Econ 360) Materials
+Below are the same materials I use to teach my Intermediate Microeconomic Theory course (with calculus). 
+I teach this class as an active, student centered course in which students complete pre-quizzes for each topic. Course time is devoted to practice conceptual and analytical problems in small groups. My exam questions are application based questions and students are allowed to bring a 1-page formula sheet to the exam. This formula sheet is graded and counts as a small percentage of the overall exam grade. I provide a full description of the class and my policies in the syllabus below, and my slides, homeworks, and past exams are availble below.
 
-Below are the same course materials I have posted to Brightspace.
+Students--these are the same materials I have uploaded to Brightspace in case Brightspace encounters issues!
 
 ## Syllabus
 - <a href="/files/econ-360/Tatro Syllabus Summer 25.pdf" target="_blank" rel="noopener">Syllabus (PDF)</a>
@@ -23,8 +26,8 @@ Below are the same course materials I have posted to Brightspace.
 - <a href="/files/econ-360/slides/10 - Surplus.pdf" target="_blank" rel="noopener">10-Surplus Slides</a>
 - <a href="/files/econ-360/slides/11 - Market Demand.pdf" target="_blank" rel="noopener">11-Market Demand Slides</a>
 - <a href="/files/econ-360/slides/12 - Technology.pdf" target="_blank" rel="noopener">12-Technology Slides</a>
-- 13-Profit Maximization Slides
-- 14-Cost Minimization Slides
+- <a href="/files/econ-360/slides/13 - Profit Maximization.pdf" target="_blank" rel="noopener">13-Profit Maximization Slides</a>
+- <a href="/files/econ-360/slides/14 - Cost Minimization.pdf" target="_blank" rel="noopener">14-Cost Minimization Slides</a>
 - <a href="/files/econ-360/slides/15 - Cost Curves.pdf" target="_blank" rel="noopener">15-Cost Curve Slides</a>
 - <a href="/files/econ-360/slides/16 - Firm Supply.pdf" target="_blank" rel="noopener">16-Firm Supply Slides</a>
 - <a href="/files/econ-360/slides/17 - Industry Supply.pdf" target="_blank" rel="noopener">17-Industry Supply Slides</a>
