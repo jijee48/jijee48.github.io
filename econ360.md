@@ -4,7 +4,7 @@ title: Econ 360: Intermediate Microeconomics
 permalink: /courses/econ360/
 author_profile: false
 ---
-## Intermediate Microeconomic Theory (Econ 360) Materials
+#
 Below are the same materials I use to teach my Intermediate Microeconomic Theory course (with calculus). 
 I teach this class as an active, student centered course in which students complete pre-quizzes for each topic. Course time is devoted to practice conceptual and analytical problems in small groups. My exam questions are application based questions and students are allowed to bring a 1-page formula sheet to the exam. This formula sheet is graded and counts as a small percentage of the overall exam grade. I provide a full description of the class and my policies in the syllabus below, and my slides, homeworks, and past exams are availble below.
 

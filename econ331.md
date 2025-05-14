@@ -5,7 +5,7 @@ permalink: /courses/econ331/
 author_profile: false
 ---
 
-## Econ 331: Environmental Economics
+#
 
 ## Syllabus
 
