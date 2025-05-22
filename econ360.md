@@ -39,11 +39,12 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - 23-Uncertainty Slides
 
 ## Homeworks
-- Homework 1
-- Homework 2
-- Homework 3
-- Homework 4
-- Homework 5
+- <a href="/files/econ-360/homeworks/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
+- <a href="/files/econ-360/homeworks/HW1.pdf" target="_blank" rel="noopener">Homework 1</a>
+- <a href="/files/econ-360/homeworks/HW2.pdf" target="_blank" rel="noopener">Homework 2</a>
+- <a href="/files/econ-360/homeworks/HW3.pdf" target="_blank" rel="noopener">Homework 3</a>
+- <a href="/files/econ-360/homeworks/HW4.pdf" target="_blank" rel="noopener">Homework 4</a>
+- <a href="/files/econ-360/homeworks/HW5.pdf" target="_blank" rel="noopener">Homework 5</a>
 - (Optional) Homework 6
 
 ## Past Midterm Exams
