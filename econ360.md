@@ -48,10 +48,10 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - (Optional) Homework 6
 
 ## Past Midterm Exams
-<a href="/files/econ-360/past_exams/Practice Midterm Summer 2024.pdf" target="_blank" rel="noopener"><strong>Practice Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf">Solutions</a> <br>
-<a href="/files/econ-360/past_exams/Summer 2024 Midterm 1 360.pdf" target="_blank" rel="noopener"><strong>Midterm (Summer 2024)</strong></a> | <a href="link-to-solutions.pdf">Solutions</a>
+- <a href="/files/econ-360/past_exams/Practice Midterm Summer 2024.pdf" target="_blank" rel="noopener"><strong>Practice Midterm (Summer 2024)</strong></a> 
+- <a href="/files/econ-360/past_exams/Summer 2024 Midterm 1 360.pdf" target="_blank" rel="noopener"><strong>Midterm (Summer 2024)</strong></a> 
 
 
 ## Past Final Exams
-<a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener"><strong>Practice Final (Summer 2024)</strong></a> 
-<a href="/files/econ-360/past_exams/Summer 2024 360 Final.pdf" target="_blank" rel="noopener"><strong>Final (Summer 2024)</strong></a>
+- <a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener"><strong>Practice Final (Summer 2024)</strong></a> 
+- <a href="/files/econ-360/past_exams/Summer 2024 360 Final.pdf" target="_blank" rel="noopener"><strong>Final (Summer 2024)</strong></a>
