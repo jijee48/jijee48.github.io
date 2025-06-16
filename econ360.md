@@ -33,7 +33,7 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - <a href="/files/econ-360/slides/17 - Industry Supply.pdf" target="_blank" rel="noopener">17-Industry Supply Slides</a>
 - <a href="/files/econ-360/slides/18 - Equilibrium and Government Policies.pdf" target="_blank" rel="noopener">18-Equilibrium and Govt Policy Slides</a>
 - <a href="/files/econ-360/slides/19 - Market Power.pdf" target="_blank" rel="noopener">19-Market Power Slides</a>
-- 20-Externalities Slides
+- <a href="/files/econ-360/slides/20 - Externalities.pdf" target="_blank" rel="noopener">20-Externality Slides</a>
 - 21-Game Theory Slides
 - 22-Assymetric Information Slides
 - 23-Uncertainty Slides
@@ -48,10 +48,12 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - (Optional) Homework 6
 
 ## Past Midterm Exams
-- <a href="/files/econ-360/past_exams/Practice Midterm Summer 2024.pdf" target="_blank" rel="noopener"><strong>Practice Midterm (Summer 2024)</strong></a> 
+- <a href="/files/econ-360/past_exams/Econ 360 Midterm Summer 2025.pdf" target="_blank" rel="noopener"><strong>Midterm (Summer 2025)</strong></a> 
 - <a href="/files/econ-360/past_exams/Summer 2024 Midterm 1 360.pdf" target="_blank" rel="noopener"><strong>Midterm (Summer 2024)</strong></a> 
+- <a href="/files/econ-360/past_exams/Practice Midterm Summer 2024.pdf" target="_blank" rel="noopener"><strong>Practice Midterm (Summer 2024)</strong></a> 
+
 
 
 ## Past Final Exams
-- <a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener"><strong>Practice Final (Summer 2024)</strong></a> 
 - <a href="/files/econ-360/past_exams/Summer 2024 360 Final.pdf" target="_blank" rel="noopener"><strong>Final (Summer 2024)</strong></a>
+- <a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener"><strong>Practice Final (Summer 2024)</strong></a> 

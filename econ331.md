@@ -13,7 +13,6 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 
 ## Syllabus
 
-
 ## Final Project Guidelines and Rubric
 
 ## Pre-lecture Slides
