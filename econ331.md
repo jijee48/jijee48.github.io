@@ -12,8 +12,12 @@ Below are the materials I use to teach an undergraduate intro to Environmental E
 Students, below are the same materials I have posted to Brightspace in case Brightspace has any issues!
 
 ## Syllabus
+- <a href="/files/econ-331/Syllabus Fall 2025.pdf" target="_blank" rel="noopener">Syllabus (PDF)</a>
 
 ## Final Project Guidelines and Rubric
+- <a href="/files/econ-331/Final Project Guidelines.pdf" target="_blank" rel="noopener">Final Project Guidelines (PDF)</a>
+- <a href="/files/econ-331/Final Project Grading Rubric.pdf" target="_blank" rel="noopener">Final Project Grading Rubric</a>
+
 
 ## Pre-lecture Slides
 
