@@ -53,5 +53,6 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 
 
 ## Past Final Exams
+- <a href="/files/econ-360/past_exams/Final Exam Econ 360 Summer 2025.pdf" target="_blank" rel="noopener">Final (Summer 2025)</a>
 - <a href="/files/econ-360/past_exams/Summer 2024 360 Final.pdf" target="_blank" rel="noopener">Final (Summer 2024)</a>
 - <a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener">Practice Final (Summer 2024)</a> 
