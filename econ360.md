@@ -10,10 +10,10 @@ I teach this class as an active, student centered course in which students compl
 
 Students--these are the same materials I have uploaded to Brightspace in case Brightspace encounters issues!
 
-## Syllabus
-- <a href="/files/econ-360/Tatro Syllabus Summer 25.pdf" target="_blank" rel="noopener">Syllabus (PDF)</a>
+## Syllabus (PDF)
+- <a href="/files/econ-360/Tatro Syllabus Summer 25.pdf" target="_blank" rel="noopener">Syllabus</a>
 
-## Pre-Lecture Slides
+## Pre-Lecture Slides (PDFs)
 - <a href="/files/econ-360/slides/01- Budget.pdf" target="_blank" rel="noopener">01-Budget Slides</a>
 - <a href="/files/econ-360/slides/02 - Preferences.pdf" target="_blank" rel="noopener">02-Preference Slides</a>
 - <a href="/files/econ-360/slides/03 - Indifference Curves.pdf" target="_blank" rel="noopener">03-Indifference Curves Slides</a>
@@ -36,7 +36,7 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - <a href="/files/econ-360/slides/20 - Externalities.pdf" target="_blank" rel="noopener">20-Externality Slides</a>
 
 
-## Homeworks
+## Homeworks (PDFs)
 - <a href="/files/econ-360/homeworks/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-360/homeworks/HW1.pdf" target="_blank" rel="noopener">Homework 1</a>
 - <a href="/files/econ-360/homeworks/HW2.pdf" target="_blank" rel="noopener">Homework 2</a>
@@ -45,14 +45,14 @@ Students--these are the same materials I have uploaded to Brightspace in case Br
 - <a href="/files/econ-360/homeworks/HW5.pdf" target="_blank" rel="noopener">Homework 5</a>
 
 
-## Past Midterm Exams
+## Past Midterm Exams (PDFs)
 - <a href="/files/econ-360/past_exams/Econ 360 Midterm Summer 2025.pdf" target="_blank" rel="noopener">Midterm (Summer 2025)</a> 
 - <a href="/files/econ-360/past_exams/Summer 2024 Midterm 1 360.pdf" target="_blank" rel="noopener">Midterm (Summer 2024)</a> 
 - <a href="/files/econ-360/past_exams/Practice Midterm Summer 2024.pdf" target="_blank" rel="noopener">Practice Midterm (Summer 2024)</a> 
 
 
 
-## Past Final Exams
+## Past Final Exams (PDFs)
 - <a href="/files/econ-360/past_exams/Final Exam Econ 360 Summer 2025.pdf" target="_blank" rel="noopener">Final (Summer 2025)</a>
 - <a href="/files/econ-360/past_exams/Summer 2024 360 Final.pdf" target="_blank" rel="noopener">Final (Summer 2024)</a>
 - <a href="/files/econ-360/past_exams/Econ 360 Summer 2024 Practice Final.pdf" target="_blank" rel="noopener">Practice Final (Summer 2024)</a> 
