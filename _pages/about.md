@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Case Tatro -- PhD Candidate"
+title: "Case Tatro -- PhD Economics Candidate at Binghamton University (SUNY)"
 author_profile: true
 redirect_from: 
   - /about/
