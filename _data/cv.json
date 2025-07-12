@@ -3,7 +3,6 @@
     "name": "Case Tatro",
     "email": "ctatro1@binghamton.edu",
     "website": "https://casetatro.github.io",
-    "summary": "Ph.D. Candidate in Economics of Education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -154,6 +153,9 @@
   "attendances": [
     {
     "conference": "Center for Teaching and Learning Economics (CTALE), 2024 (Online)"
+    },
+    {
+      "conference": "Teaching at Teaching Intensive Institutions"
     },
     {
     "conference": "Southern Economic Association Winter Meeting 2024 (In-person)"

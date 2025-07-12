@@ -5,7 +5,7 @@ category: papers
 permalink: /publication/Red_Blue_mortality_gap
 abstract: 'Age-adjusted mortality rates are higher in red states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies or simply due to confounding variables such as culture. We implement three research designs a border county design, a regression discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our point estimates suggest that Democratic state government slightly decreases mortality, but most estimates are insignificant, and in all designs we find that the correlation between partisanship and mortality is predominantly driven by confounding.'
 date: 2025-01-01
-venue: 'Under Review at Journal of Urban Economics'
+venue: 'Under Review'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://casetatro.github.io/files/Red_blue_mortality_gap.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
