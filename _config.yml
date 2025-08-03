@@ -22,7 +22,7 @@ repository               : "casetatro/casetatro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : tatro-case-field.jpg
+  avatar           : Tatro-updated-pic.jpg
   name             : "Case Tatro"
   pronouns         : # example: "she/her"  
   bio              : "PhD Economics Candidate at Binghamton University (SUNY)"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "casetatro"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
