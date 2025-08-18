@@ -13,7 +13,7 @@ title                    : "Jijee Bhattarai"
 title_separator          : ""
 name                     : &name "Jijee Bhattarai"
 description              : &description "PhD Economics Candidate at Binghamton University (SUNY)"
-url                      : https://jijee48.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Jijeebisha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jijeebisha.github.io"
 
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : InCaseofEconStruggles
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
