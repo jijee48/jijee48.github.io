@@ -30,5 +30,5 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a target="_blank" rel="noopener noreferrer" href="{{ base_path }}/files/Tatro CV 2023.05.05.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a target="_blank" rel="noopener noreferrer" href="{{ base_path }}/files/CV_08_2025.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
