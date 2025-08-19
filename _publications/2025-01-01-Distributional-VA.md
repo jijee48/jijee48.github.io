@@ -1,9 +1,9 @@
 ---
-title: "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement distribution within the same classrooms?"
+title: "Gender Gap in Child Poverty: Evidence from India (with Ajinkya Keskar)"
 collection: publications
 category: works
-permalink: /publication/Distributional-VA
-abstract: 'Teacher value-added is used to evaluate teachers in many places. Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years.'
+permalink: /publication/Child-Poverty
+abstract: 'Identifying the share of household resources allocated to children is challenging because consumption data are typically measured at the household level, making it difficult to distinguish individual consumption, especially for shared goods. To address this, we leverage data on private assignable goods available for each child, enabling us to analyze boys and girls as distinct entities and estimate individual-level poverty rates. Using data from India, we examine how resource allocation differs between boys and girls across families with varying poverty levels. Our findings reveal that standard poverty indices underestimate the true extent of poverty among girls.'
 date: 2025-01-01
 venue: 'In Progress'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
@@ -11,4 +11,5 @@ venue: 'In Progress'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Bhattarai, Jijee, David Slichter, and Case Tatro (2025). <i>Is the mortality gap between red and blue states caused by policy?</i> Working Paper'
 ---
-Teacher value-added is used to evaluate teachers in many places. Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years.
+
+Identifying the share of household resources allocated to children is challenging because consumption data are typically measured at the household level, making it difficult to distinguish individual consumption, especially for shared goods. To address this, we leverage data on private assignable goods available for each child, enabling us to analyze boys and girls as distinct entities and estimate individual-level poverty rates. Using data from India, we examine how resource allocation differs between boys and girls across families with varying poverty levels. Our findings reveal that standard poverty indices underestimate the true extent of poverty among girls.
