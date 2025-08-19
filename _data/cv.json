@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Case Tatro",
-    "email": "ctatro1@binghamton.edu",
-    "website": "https://casetatro.github.io",
+    "name": "Jijee Bhattarai",
+    "email": "jbhatta1@binghamton.edu",
+    "website": "https://jijee48.github.io",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,11 +23,11 @@
       "courses": []
     },
     {
-      "institution": "Hamilton College",
-      "area": "BA, Economics",
+      "institution": "Ramapo College",
+      "area": "BS, Business Administration/Finance",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
@@ -38,127 +38,112 @@
       "language": "English",
       "fluency": "Native"
     }
+    {
+      "language": "Nepali",
+      "fluency": "Native"
+    }
+    {
+      "language": "Hindi",
+      "fluency": "Proficient"
+    }
   ],
   "interests": [],
   "references": [
     {
-      "name": "David Slichter (chair)"
+      "name": "Ajinkya Keskar (chair)"
     },
     {
       "name": "Sulagna Mokerjee"
     },
     {
-      "name": "Ozlem Tonguc"
+      "name": "David Slichter"
     }
   ],
   "papers": [
     {
       "name": "Is the red-blue mortality gap due to state policy?",
       "releaseDate": "2025",
-      "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
+      "website": "http://jijee48.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: Age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies or simply due to confounding variables such as culture. We implement three research designs: a border county design, a regression discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our point estimates suggest that Democratic state government slightly decreases mortality, but most estimates are insignificant, and in all designs we find that the correlation between partisanship and mortality is predominantly driven by confounding."
     },
     {
-      "name": "Is the red-blue achievement gap due to state policy?",
-      "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than Republican states. I implement two research designs and ask whether Democrats cause these differences in test scores through state-level policy. I find that Democrats do seem to increase test scores, although my estimates are imprecisely estimated. Further, despite the view that Democrats promote equity in education, I do not find that Democrats close achievement gaps between white and black students, male and female students, or rich and poor students."
-    },
-    {
-      "name": "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement distribution within the same classrooms?",
-      "summary": "Teacher value-added is used to evaluate teachers in many places. Implicitly, teacher value-added measures place equal weight on improvements in test scores, regardless of whether that improvement is from low to medium proficiency or from medium to high. However, increasing test scores may not be equally important for low achieving students as high achieving students. My goal is to ask whether information about which specific students a teacher helps most can help predict which teachers will produce specific outcomes for students. These outcomes include high school graduation, absence and disciplinary records, and grades in subsequent years."
-    },
-    {
-      "name": "How does advice change when the advisor can be punished? A lab experiment.",
-      "summary": "In the US, consulting companies like McKinsey rarely face direct public accountability for their role in the firm behavior of their clients. This often allows firms to offload culpability onto their advisors. We use a simplified lab-experiment to investigate how such public accountability for advisors may change i) the type of advice consulting companies offer to firms and ii) the actions of firms. We find such accountable advice affects both the advice given by advisors and the action taken by firms. Work is ongoing regarding how accountable advice affects total welfare, but our results suggest that ultimately holding consulting companies accountable for the actions of their clients may improve consumer welfare."
-    }
+      "name": "From Prohibition to Choice: The Impact of Abortion Legalization on Fertility and Child Investments in Nepal"
+      "website": "https://jijee48.github.io/files/From_Prohibition_to_Choice.pdf",
+      "summary": "Abstract: This paper examines the effects of Nepal’s abortion law reform: the removal of one of the world’s most restrictive abortion bans on fertility and child investments. Using variation in exposure to the reform and family-level incentives to use abortion, we show that the gender gap in sibling size between firstborn-girl and firstborn-boy families declined by 65–75% post-legalization. We also find that breastfeeding duration, previously longer for boys in firstborn-girl families, became more equal, with the gap narrowing by 85%. The reform had no significant effects on vaccinations or mortality. These findings highlight how access to abortion shapes fertility behavior and narrows postnatal gender gaps in settings with strong son preference.",
+      
+},
+  
   ],
   "instructor": [
     {
-      "course": "Econ 331: Environmental Economics",
+      "course": "Econ 144: The Economics of Poverty and Discrimination",
       "institution": "Binghamton University",
-      "date": "Fall 2025"
+      "date": "Summer 2025"
     },
     {
-      "course": "Econ 360: Intermediate Microeconomic Theory",
+      "course": "Econ 366: Statistical Methods",
       "institution": "Binghamton University",
-      "date": "Summer 2024, Summer 2025"
+      "date": "Summer 2024"
     }
   ],
   "teaching_assist": [
     {
-      "course": "Econ 433: Natural Resource Economics",
+      "course": "Econ 413: Microeconomics of Development",
       "institution": "Binghamton University",
-      "date": "Spring 2025, Fall 2024, Spring 2024",
-      "role": "",
-      "description": "Includes guest lectures."
+      "date": "Spring 2025",
+      "role": ""
     },
     {
-      "course": "Econ 331: Environmental Economics",
+      "course": "Econ 456: Data Analysis in Economics",
       "institution": "Binghamton University",
-      "date": "Spring 2025, Fall 2024, Spring 2025",
+      "date": "Spring 2024, Fall 2024",
       "role": "",
-      "description": "Includes guest lectures."
-    },
-    {
-      "course": "Econ 611: Microeconomics (PhD Core)",
-      "institution": "Binghamton University",
-      "date": "Fall 2023",
-      "role": "",
-      "description": "Includes discussion sections."
-    },
-    {
-      "course": "Econ 485: Historical Perspectives of Economic Growth",
-      "institution": "Binghamton University",
-      "date": "Spring 2023",
-      "role": "",
-      "description": "Includes guest lectures."
+      "description": "Includes guest lectures in R."
     },
     {
       "course": "Econ 437: International Monetary Policy",
       "institution": "Binghamton University",
       "date": "Fall 2022",
       "role": "",
-      "description": "Includes guest lectures."
+      "description": ""
     },
     {
       "course": "Econ 362: Intermediate Macroeconomic Theory",
       "institution": "Binghamton University",
-      "date": "Spring 2022",
+      "date": "Spring 2023",
       "role": "",
       "description": "Includes discussion sections."
     },
     {
       "course": "Econ 360: Intermediate Microeconomic Theory",
       "institution": "Binghamton University",
-      "date": "Fall 2021",
+      "date": "Fall 2022",
       "role": "",
       "description": "Includes discussion sections."
     },
     {
-      "course": "Department Tutor",
+      "course": "Econ 160: Principles of Microeconomics",
       "institution": "Binghamton University",
-      "date": "Summer 2023, Summer 2024",
-      "role": "PhD Microeconomics Comprehensive Exam (Qualifier) Tutor",
-      "description": "Provided tutoring for PhD Microeconomics comprehensive exams."
+      "date": "Fall 2021", "Spring 2022",
+      "role": "",
+      "description": "Includes discussion sections."
     }
   ],
   "presentations": [
     {
-    "conference": "Econometric Society North American Summer Meeting, 2024 (In-person)"
+    "conference": "Southern Economic Association, 2025 (Scheduled)"
     },
     {
-    "conference": "Canadian Economics Association, 2024 (Online)"
+    "conference": "Lake Economics Development Workshop, 2025"
+    },
+    {
+    "conference": "Southern Economic Association, 2024"
     }
   ],
 
   "attendances": [
     {
-    "conference": "Center for Teaching and Learning Economics (CTALE), 2024 (Online)"
-    },
-    {
       "conference": "Teaching at Teaching Intensive Institutions"
-    },
-    {
-    "conference": "Southern Economic Association Winter Meeting 2024 (In-person)"
     }
   ] 
 
