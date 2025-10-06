@@ -5,12 +5,11 @@ category: instructor
 permalink: /teaching/instructor/
 venue: Binghamton University (SUNY)
 taughtcourses:
-  - course: "Econ 360 - Intermediate Microeconomic Theory"
+  - course: "Econ 144 - Economics of Poverty and Discrimination"
     semesters:
       - Summer 2025
-      - Summer 2024
-  - course: "Econ 331 - Environmental Economics"
+  - course: "Econ 366 - Statistical Methods"
     semesters:
-      - Fall 2025
+      - Summer 2024
 
 ---
