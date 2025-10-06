@@ -5,9 +5,6 @@ category: trainings
 permalink: /teaching/trainings/
 venue: Binghamton University (SUNY)
 trainings:
-    - name: Evidence-Based Teaching Institute
-      role: Attendee
-      date: Spring 2025 
     - name: "Semester-long Course on Scholarly Teaching"
       role: Student
       date: Spring 2024
