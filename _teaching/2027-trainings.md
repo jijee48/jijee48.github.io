@@ -9,7 +9,7 @@ trainings:
       role: Student
       date: Spring 2024
     - name: "Wicked Graduate Teaching Workshop"
-      role: Guest-Lecturer and Attendee
+      role: Attendee
       date: Fall 2024
 
     
@@ -18,3 +18,4 @@ trainings:
 
 
 ---
+
