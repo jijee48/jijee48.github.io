@@ -7,7 +7,7 @@ abstract: 'In the US, age-adjusted mortality rates are higher in ``red" states, 
 date: 2025-08-01
 venue: 'In Preparation for Submission'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://jijee48.github.io/files/Red_blue_mortality_gap.pdf'
+paperurl: 'http://jijee48.github.io/files/Red_blue_mortality_gap_Oct18.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 
 ---
