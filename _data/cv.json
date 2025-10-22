@@ -66,13 +66,13 @@
       "summary": "Abstract: We study whether expanding reproductive autonomy changes fertility and early-life investments in a son-preferring society, in the context of Nepal’s 2002 abortion legalization. Using a triple-difference-in-differences design comparing girls and boys across firstborn-sex families before and after the reform, we find that the abortion legalization substantially reduced son-biased fertility stopping: the sibship-size gap between firstborn-girl and firstborn-boy families fell by nearly three-quarters. In terms of investments, daughters in firstborn-girl families gained about two months of breastfeeding, closing most of the pre-existing deficit, also consistent with reduced reliance on breastfeeding as a birth spacing tool. Effects on vaccination and under-five survival were limited, aligning with these inputs being less tied to fertility timing. Abortion access, therefore, relaxed fertility constraints and shifted investments on the birth spacing sensitive margin."     
     },
     {
-      "name": "Is the Red-Blue Gap in Mortality Due to Government?",
+      "name": "Is the Red-Blue Gap in Mortality Due to Government? (with David Slichter and Case Tatro)",
       "releaseDate": "2025",
       "website": "http://jijee48.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: In the US, age-adjusted mortality rates are higher in 'red' states, i.e., states with high support for the Republican Party. We ask whether this is attributable to state-level policies as opposed to confounding variables such as culture. Using a variety of empirical approaches, we find that state government explains between 0 and 20% of the mortality gap. Scaling this by the size of the (large) gap, red state policies increase mortality risk by 0-3% relative to blue state policies."
     },   
     {
-      "name": "Gender Gap in Child Poverty: Evidence from India",
+      "name": "Gender Gap in Child Poverty: Evidence from India (with Ajinkya Keskar)",
       "summary": "Abstract: Identifying the share of household resources allocated to children is challenging because consumption data are typically measured at the household level, making it difficult to distinguish individual consumption, especially for shared goods. To address this, we leverage data on private assignable goods available for each child, enabling us to analyze boys and girls as distinct entities and estimate individual-level poverty rates. Using data from India, we examine how resource allocation differs between boys and girls across families with varying poverty levels. Our findings reveal that standard poverty indices underestimate the true extent of poverty among girls."     
     }
   ],
