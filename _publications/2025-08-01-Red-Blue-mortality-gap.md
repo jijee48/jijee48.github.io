@@ -1,5 +1,5 @@
 ---
-title: "Is the red-blue gap in mortality due to government?"
+title: "Is the Red-Blue Gap in Mortality Due to Government?"
 collection: publications
 category: works
 permalink: /publication/Red_Blue_mortality_gap
