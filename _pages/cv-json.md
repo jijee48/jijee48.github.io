@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-  <a target="_blank" rel="noopener noreferrer" href="{{ base_path }}/files/CVOct6.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a target="_blank" rel="noopener noreferrer" href="{{ base_path }}/files/CV_Bhattarai.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
