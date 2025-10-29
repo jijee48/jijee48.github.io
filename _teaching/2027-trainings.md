@@ -1,5 +1,5 @@
 ---
-title: "Pedagogical Trainings"
+title: "Pedagogical Trainings (Binghamton University)"
 collection: teaching
 category: trainings
 permalink: /teaching/trainings/
@@ -18,4 +18,5 @@ trainings:
 
 
 ---
+
 
