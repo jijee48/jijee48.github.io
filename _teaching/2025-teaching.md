@@ -1,9 +1,9 @@
 ---
-title: "Instructor"
+title: "Instructor (Binghamton University)"
 collection: teaching
 category: instructor
 permalink: /teaching/instructor/
-venue: Binghamton University (SUNY)
+venue: 
 taughtcourses:
   - course: "Econ 144: Economics of Poverty and Discrimination"
     semesters:
@@ -14,3 +14,4 @@ taughtcourses:
 
 
 ---
+
