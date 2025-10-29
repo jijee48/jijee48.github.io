@@ -1,5 +1,5 @@
 ---
-title: "Is the Red-Blue Gap in Mortality Due to Government? (with David Slichter and Case Tatro)"
+title: "Is the Red-Blue Gap in Mortality Due to Government?"
 collection: publications
 category: works
 permalink: /publication/Red_Blue_mortality_gap
