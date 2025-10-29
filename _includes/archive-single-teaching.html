@@ -39,7 +39,7 @@
 <ul>
   {% for course in post.taughtcourses %}
     <li>
-      <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
+      <strong>{{ course.course }}</strong> <br>
       {% for semester in course.semesters %}
         {{ semester }}{% unless forloop.last %}, 
         {% endunless %}
@@ -55,7 +55,7 @@
 <ul>
   {% for course in post.tacourses %}
     <li>
-      <strong>{{ course.course }}</strong> — {{ post.venue }}<br>
+      <strong>{{ course.course }}</strong> <br>
       {% for semester in course.semesters %}
         {{ semester }}{% unless forloop.last %}, 
         {% endunless %}
@@ -72,7 +72,7 @@
 <ul>
   {% for course in post.trainings %}
     <li>
-      <strong>{{ course.name }}</strong> — {{ post.venue }}<br>
+      <strong>{{ course.name }}</strong> <br>
       {% for semester in course.date %}
         {{course.role}}, <em>{{ semester }}</em>{% unless forloop.last %}, 
         {% endunless %}
