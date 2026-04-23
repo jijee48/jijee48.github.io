@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student on the 2025-26 job market.
+I am a fifth-year PhD student on the 2025-26 job market and will be joining Wake Forest University as a Visiting Assistant Professor for the 2026-2027 Academic Year.
 
 I am an applied microeconomist mainly interested in the fields of labor economics, development economics, and economics of gender.
 
