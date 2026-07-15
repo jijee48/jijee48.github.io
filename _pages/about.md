@@ -1,18 +1,13 @@
 ---
 permalink: /
-title: "Jijee Bhattarai -- PhD Economics Candidate at Binghamton University (SUNY)"
+title: "Jijee Bhattarai"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fifth-year PhD student on the 2025-26 job market and will be joining Wake Forest University as a Visiting Assistant Professor for the 2026-2027 Academic Year.
-
-I am an applied microeconomist mainly interested in the fields of labor economics, development economics, and economics of gender.
-
-I have a strong passion for teaching. My teaching interests and qualifications include any core economics course, development economics, labor economics, and statistical methods.
-
+I am a Visiting Assistant Professor at Wake Forest University. I am an applied microeconomist mainly interested in the fields of labor economics, development economics, and economics of gender. I obtained my PhD from Binghamton University in 2026. 
 
 
 Fields
