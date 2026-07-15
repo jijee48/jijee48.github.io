@@ -1,20 +1,19 @@
 ---
-title: "Gender Gap in Child Poverty: Evidence from India"
+title: "Hidden Gender Gaps in Child Poverty"
 collection: publications
 category: works
 permalink: /publication/Child-Poverty
-coauthors: "Ajinkya Keskar"
-abstract: "Identifying the share of household resources allocated to children is challenging because consumption data are typically measured at the household level, making it difficult to distinguish individual consumption, especially for shared goods. To address this, we leverage data on private assignable goods available for each child, enabling us to analyze boys and girls as distinct entities and estimate individual-level poverty rates. Using data from India, we examine how resource allocation differs between boys and girls across families with varying poverty levels. Our findings reveal that standard poverty indices underestimate the true extent of poverty among girls."
+coauthors: "Rosella Calvi and Ajinkya Keskar"
+abstract: "While son preference in India is well documented, measuring gender differences in children's consumption remains challenging because consumption is typically observed only at the household level. We estimate gender-specific child consumption using a collective household model and data from rural India.  We find substantial within-household inequality: boys consume systematically more household resources than girls. Translating these allocations into individual-level poverty, roughly \RCGirlsPoorPhrase{} girls are poor, compared to \RCBoysPoorPhrase{} boys. These gaps account for age- and sex-specific needs, persist throughout childhood, and are largely invisible to standard household-level poverty measures. We further show that son-biased fertility stopping behavior contributes to the gender gap in child poverty by increasing girls' exposure to larger families with fewer resources per child, explaining about one-fifth of the overall gap. Finally, combining our model-based poverty estimates with administrative mortality data, we show that hidden gender gaps in child poverty can account for one in five Indian missing girls."
 #date: 2025-01-01
-venue: 'In Progress'
+venue: 'Submitted'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://casetatro.github.io/files/Red_blue_mortality_gap.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 
 ---
 
-We use a collective household model to structurally estimate individual-level consumption for girl and boy children, separately, using household-level data. These estimates allow us to account for the unequal division of resources within the household and to measure poverty rates for girls and boys at the individual level, unlike standard poverty measures, which are measured at the household level. Our results indicate that girls are more likely to live in poverty compared to boys in India, and a significant fraction of poor girls in fact live in households that standard poverty measures would classify as non-poor. 
-
+While son preference in India is well documented, measuring gender differences in children's consumption remains challenging because consumption is typically observed only at the household level. We estimate gender-specific child consumption using a collective household model and data from rural India.  We find substantial within-household inequality: boys consume systematically more household resources than girls. Translating these allocations into individual-level poverty, roughly \RCGirlsPoorPhrase{} girls are poor, compared to \RCBoysPoorPhrase{} boys. These gaps account for age- and sex-specific needs, persist throughout childhood, and are largely invisible to standard household-level poverty measures. We further show that son-biased fertility stopping behavior contributes to the gender gap in child poverty by increasing girls' exposure to larger families with fewer resources per child, explaining about one-fifth of the overall gap. Finally, combining our model-based poverty estimates with administrative mortality data, we show that hidden gender gaps in child poverty can account for one in five Indian missing girls.
 
 
 
