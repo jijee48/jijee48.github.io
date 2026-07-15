@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jijee Bhattarai"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
