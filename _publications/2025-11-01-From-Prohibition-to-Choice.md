@@ -8,7 +8,7 @@ abstract: "We study whether expanding reproductive autonomy changes fertility an
 #date: 2025-10-01
 venue: 'Job Market Paper'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://jijee48.github.io/files/From_Prohibition_to_Choice.pdf'
+paperurl: 'http://jijee48.github.io/files/Bhattarai-Keskar-Nepal-Abortion.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 
 ---
