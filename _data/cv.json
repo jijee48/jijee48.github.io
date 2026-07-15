@@ -18,7 +18,7 @@
       "area": "PhD, Economics",
       "studyType": "",
       "startDate": "2021",
-      "endDate": "2021-2026 (anticipated)",
+      "endDate": "2021-2026",
       "gpa": null,
       "courses": []
     },
@@ -71,8 +71,8 @@
       "summary": "Abstract: In the US, age-adjusted mortality rates are higher in 'red' states, i.e., states with high support for the Republican Party. We ask whether this is attributable to state-level policies as opposed to confounding variables such as culture. Using a variety of empirical approaches, we find that state government explains between 0 and 20% of the mortality gap. Scaling this by the size of the (large) gap, red state policies increase mortality risk by 0-3% relative to blue state policies."
     },   
     {
-      "name": "Gender Gap in Child Poverty: Evidence from India (with Ajinkya Keskar)",
-      "summary": "Abstract: We use a collective household model to structurally estimate individual-level consumption for girl and boy children, separately, using household-level data. These estimates allow us to account for the unequal division of resources within the household and to measure poverty rates for girls and boys at the individual level, unlike standard poverty measures, which are measured at the household level. Our results indicate that girls are more likely to live in poverty compared to boys in India, and a significant fraction of poor girls in fact live in households that standard poverty measures would classify as non-poor."     
+      "name": "Hidden Gender Gaps in Child Poverty (with Rosella Calvi and Ajinkya Keskar)",
+      "summary": "Abstract: While son preference in India is well documented, measuring gender differences in children's consumption remains challenging because consumption is typically observed only at the household level. We estimate gender-specific child consumption using a collective household model and data from rural India.  We find substantial within-household inequality: boys consume systematically more household resources than girls. Translating these allocations into individual-level poverty, roughly 63.5 percent of girls are poor, compared to 56.3 percent of boys. These gaps account for age- and sex-specific needs, persist throughout childhood, and are largely invisible to standard household-level poverty measures. We further show that son-biased fertility stopping behavior contributes to the gender gap in child poverty by increasing girls' exposure to larger families with fewer resources per child, explaining about one-fifth of the overall gap. Finally, combining our model-based poverty estimates with administrative mortality data, we show that hidden gender gaps in child poverty can account for one in five Indian missing girls."     
     }
   ],
   "instructor": [
