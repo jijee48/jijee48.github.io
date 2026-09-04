@@ -77,6 +77,11 @@
     }
   ],
   "instructor": [
+      {
+      "course": "Econ 150: Introduction to Economics",
+      "institution": "Wake Forest University",
+      "date": "Fall 2026"
+    },
     {
       "course": "Econ 144: The Economics of Poverty and Discrimination",
       "institution": "Binghamton University",
